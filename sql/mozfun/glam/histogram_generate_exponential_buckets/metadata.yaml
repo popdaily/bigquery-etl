@@ -1,3 +1,0 @@
-description: |
-  Generate exponential buckets for a histogram.
-friendly_name: Histograms generate exponential buckets
