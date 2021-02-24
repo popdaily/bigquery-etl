@@ -152,6 +152,7 @@ RESERVED_KEYWORDS = [
     "LIKE",
     "LIMIT",
     "LOOKUP",
+    "MATCHED",
     "MERGE",
     "NATURAL",
     "NEW",
