@@ -9,7 +9,7 @@ def get_version():
 
 
 setup(
-    name="mozilla-bigquery-etl",
+    name="format-sql",
     version=get_version(),
     author="Mozilla Corporation",
     author_email="fx-data-dev@mozilla.org",
